@@ -3,7 +3,7 @@
 
 ## 引用Jar包
 
-目前没有上传远程仓库，因此需要手动下载回来，再依赖Jar包。Jar包下载地址:[transform.jar](http://www.baidu.com "transform.jar")
+目前没有上传远程仓库，因此需要手动下载回来，再依赖Jar包。Jar包下载地址:[transform.jar](https://raw.githubusercontent.com/milovetingting/ChineseTransform/master/transform.jar "transform.jar")
 
 ## Android中使用:
 
